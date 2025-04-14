@@ -1,6 +1,6 @@
 # precisely-sfquickstart
-Repository for snowflake guides 
-Steps for preparing data:
+
+**Steps for preparing data:**
 
 --Preview some sample records from boundary table
 select * from MBI__PREMIUM_GEOSPATIAL__MARKET_DATA.PROMOTIONAL."mbi_jp_cho_cho_moku_sample_region" limit 10;
